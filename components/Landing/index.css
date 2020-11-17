@@ -1,0 +1,31 @@
+
+
+
+h1 {
+    color: #16a085;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 700;
+    font: italic bold 100px fantasy;
+    text-shadow: -4px 3px 0 #77a7ad, -14px 7px 0 rgb(221, 116, 116);
+  }
+
+.button-landing{
+    align-items: center;
+    display: grid;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+  
+/* .oscurecer {
+    background-image: 
+      linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      )
+} */
+
+.text-landing {
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  }
